@@ -115,7 +115,7 @@
         </div>
     </div>
     <footer>
-        &copy; 2025 My E-Commerce Store
+        &copy; 2025 My Pandey Store
     </footer>
 </body>
 </html>
